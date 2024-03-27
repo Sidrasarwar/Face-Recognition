@@ -19,5 +19,4 @@ Ensure you have Python 3.x installed on your machine. You can download it from [
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/face-recognition-system.git
-   cd face-recognition-system
+  git clone https://github.com/Sidrasarwar/Face-Recognition.git
